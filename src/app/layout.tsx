@@ -15,7 +15,7 @@ const varelaRound = Varela_Round({ subsets: ["latin"], weight: "400" });
 
 export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_BASE_URL!),
-  title: "Web osu!mania",
+  title: "CaylenUnblockedGames osu!mania",
   description: "Play osu!mania beatmaps in your web browser.",
   twitter: {
     card: "summary_large_image",
